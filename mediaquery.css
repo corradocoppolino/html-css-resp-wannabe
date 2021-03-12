@@ -1,0 +1,49 @@
+@media (max-width:420px) {
+   
+   #lezioni .row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    background-color: #F2F1CD;
+   }
+
+   #lezioni .row>.left, #lezioni .row>.right{
+       float: none;
+       width: 100%;
+   }
+
+   #steps .row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    background-color: white;
+   }
+
+   #steps .row>.left, #steps .row>.central, #steps .row>.right{
+       float: none;
+       width: 100%;
+   }
+
+   #why .row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    background-color: #F2F1CD;
+   }
+
+    #why .row>.first,#why .row>.second,#why .row>.third {
+    width: 100%;
+    margin-top: 40px;
+   }
+
+   div{
+       font-size: 110%;
+   }
+  
+
+   
+
+}
